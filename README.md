@@ -49,8 +49,9 @@ Portfolio: Coming soon...
 
 🔧 Tech Stack & Tools
 <div align="left"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/> </div>
+
 📊 Stats (Optional, uncomment if desired)
-<!-- <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sai-vardhan&show_icons=true&theme=radical"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-vardhan&theme=nightowl"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-vardhan&layout=compact&theme=tokyonight"/> </div> -->
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sai-vardhan&show_icons=true&theme=radical"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-vardhan&theme=nightowl"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-vardhan&layout=compact&theme=tokyonight"/> </div> 
 ⚡ Fun Facts
 🎯 I love building apps that people actually use
 
