@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Satish Agarwal</h1>
-<h3 align="center">Full Stack Developer | PHP Laravel & React Expert | Mobile App Enthusiast</h3>
+<h3 align="center">Full Stack Developer | PHP Laravel & React Expert | Mobile App Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2FD4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+%26+Mobile+Developer;Laravel+%7C+React+%7C+MEAN+Stack+Expert;4%2B+Years+Experience;Passionate+about+clean+code+%26+scalable+apps" alt="Typing SVG" />
@@ -15,7 +15,7 @@ return view('awesome-profile');
 ```
 💼 About Me
 
-💻 4+ years of industry experience in PHP Laravel & React
+💻 6+ years of industry experience in PHP Laravel & React
 
 🧠 Proficient in MEAN Stack, REST APIs, and scalable full-stack solutions
 
