@@ -1,60 +1,33 @@
-<h1 align="center">Hey there, I'm Sai Vardhan 👋</h1>
-<h3 align="center">Tech Builder | Indie Hacker | Problem Solver</h3>
+<h1 align="center">👋 Hi there, I'm Satish Agarwal</h1>
+<h3 align="center">Full Stack Developer | PHP Laravel & React Expert | Mobile App Enthusiast</h3>
 
-```c
-// everyday grind
-if (idea) {
-    brainstorm();
-    prototype();
-    build();
-    debug();
-    refine();
-    ship();
-}
-👨‍💻 About Me
-I'm Sai Vardhan, a passionate full-stack developer and aspiring entrepreneur with a sharp focus on building useful, scalable, and monetizable software products.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2FD4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+%26+Mobile+Developer;Laravel+%7C+React+%7C+MEAN+Stack+Expert;4%2B+Years+Experience;Passionate+about+clean+code+%26+scalable+apps" alt="Typing SVG" />
+</p>
 
-🚀 I’m currently building multiple Micro-SaaS products across domains like:
+```php
+// Laravel + React Workflow
+auth()->check();
+Route::get();
+Controller::logic();
+Model::query();
+return view('awesome-profile');
+💼 About Me
 
-Freelance management platforms (like Freework)
+💻 4+ years of industry experience in PHP Laravel & React
 
-POS systems for small vendors (POSmobile)
+🧠 Proficient in MEAN Stack, REST APIs, and scalable full-stack solutions
 
-Local services marketplace (UrbanHelper)
+📱 Experienced in developing cross-platform mobile apps
 
-Resume/Cover Letter AI Generator
+🛠️ I love writing clean, maintainable code and solving real-world problems
 
-AI-powered chatbot generator for businesses
+📬 Reach me at: tomorrowsbits@gmail.com
 
-Lead generation & email automation tools
-
-💡 I’m obsessed with building practical solutions — whether it’s solving inventory tracking for local shops or creating tools for online booking like BOOKMYBUS.
-
-🧠 I love combining DevOps, Firebase, React Native, Flutter, and automation to deliver real-world, revenue-generating software.
-
-💰 I actively explore freemium, subscription, and ad-based models to turn side projects into passive income.
-
-📲 I’m focused on offline-first mobile apps, SEO lead scrapers, and AI-enhanced productivity tools.
-
-🔒 I deeply care about performance, UX, and low-cost deployment.
-
-🛠️ I build in JavaScript, Python, React Native, Flutter, Firebase, and sometimes experiment with PHP and Dart.
-
-📫 Connect With Me
-Email: sai.vardhan.projects@gmail.com (or your preferred email)
-
-LinkedIn: linkedin.com/in/sai-vardhan
-
-Portfolio: Coming soon...
-
-🔧 Tech Stack & Tools
-<div align="left"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/> </div>
-
-📊 Stats (Optional, uncomment if desired)
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sai-vardhan&show_icons=true&theme=radical"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-vardhan&theme=nightowl"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-vardhan&layout=compact&theme=tokyonight"/> </div> 
-⚡ Fun Facts
-🎯 I love building apps that people actually use
-
-🧩 I believe in learning by doing
-
-💡 I thrive on solving real-world problems for small businesses
+🚀 Tech Stack & Tools
+<div align="left"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </div>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomorrowsbits&show_icons=true&theme=radical" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomorrowsbits&layout=compact&theme=radical" height="180"/> </p>
+🔗 Let's Connect
+<p align="left"> <a href="mailto:tomorrowsbits@gmail.com"><img src="https://img.shields.io/badge/Email-tomorrowsbits@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tomorrowsbits&color=brightgreen" alt="Profile views"/> <img src="https://img.shields.io/github/followers/tomorrowsbits?label=Followers&style=for-the-badge"/> </p> ```
