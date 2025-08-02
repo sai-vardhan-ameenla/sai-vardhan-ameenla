@@ -15,7 +15,7 @@ return view('awesome-profile');
 ```
 💼 About Me
 
-💻 6+ years of industry experience in PHP Laravel & React
+💻 1 +years of industry experience in PHP Laravel & React
 
 🧠 Proficient in MEAN Stack, REST APIs, and scalable full-stack solutions
 
