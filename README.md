@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Sai Vardhan</h1>
-<h3 align="center">Full Stack Developer | PHP Laravel & React Expert | Mobile App Developer</h3>
+<h3 align="center">Python Developer and web developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2FD4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+%26+Mobile+Developer;Laravel+%7C+React+%7C+MEAN+Stack+Expert;6%2B+Years+Experience;Passionate+about+clean+code+%26+scalable+apps" alt="Typing SVG" />
@@ -15,15 +15,15 @@ return view('awesome-profile');
 ```
 💼 About Me
 
-💻 1 +years of industry experience in PHP Laravel & React
+💻 1 +years of industry experience in html,css, javascript,React
 
-🧠 Proficient in MEAN Stack, REST APIs, and scalable full-stack solutions
+🧠 Proficient in backend, APIs, and scalable full-stack solutions
 
-📱 Experienced in developing cross-platform mobile apps
+📱 Trying to develop cross-platform mobile apps using react native
 
 🛠️ I love writing clean, maintainable code and solving real-world problems
 
-📬 Reach me at: tomorrowsbits@gmail.com
+📬 Reach me at: saivardhanamenla@gmail.com
 
 🚀 Tech Stack & Tools
 <div align="left"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -43,8 +43,8 @@ return view('awesome-profile');
 &show_icons=true&theme=radical" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-vardhan-ameenla
 &layout=compact&theme=radical" height="180"/> </p>
 🔗 Let's Connect
-<p align="left"> <a href="mailto:tomorrowsbits@gmail.com">
-  <img src="https://img.shields.io/badge/Email-tomorrowsbits@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="left"> <a href="mailto:saivardhanamenla@gmail.com">
+  <img src="https://img.shields.io/badge/Email-saivardhanamenla@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sai-vardhan-ameenla
